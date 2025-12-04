@@ -55,4 +55,3 @@ final_result_b4 = result_step2_b4 + result_step3_b4
 print("Block 4: zero")
 
 print("x - y / 5 + x * y =", final_result_b4)
-
