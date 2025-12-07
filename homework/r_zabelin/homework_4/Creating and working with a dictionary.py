@@ -19,7 +19,7 @@ my_dict['list'].append(False)
 
 my_dict['list'].pop(2)
 
-my_dict['dict']['i am a tuple'] = 'valuetuple'
+my_dict['dict'][('i am a tuple',)] = 'valuetuple'
 
 my_dict['dict'].pop('six')
 
